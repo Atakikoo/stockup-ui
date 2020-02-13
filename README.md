@@ -3,7 +3,7 @@
 Manage your supplies, simply and quickly !
 Handle your products, batches and their locations from any of your devices
 
-More informations [https://stockup.fr](stockup.fr)
+More informations [stockup.fr](https://stockup.fr)
 
 ## Available Scripts
 
